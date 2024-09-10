@@ -1,0 +1,4 @@
+.migrations
+meta
+.vscode
+node_modules
